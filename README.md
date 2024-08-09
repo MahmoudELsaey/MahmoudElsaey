@@ -15,6 +15,17 @@ I am an **Embedded Software Engineer** with a passion for developing innovative 
 | **AVR MC**        | Advanced |
 | **Git & GitHub**  | Intermediate |
 
+## 💻 Codeforces Stats
+
+[![Codeforces Profile](https://codeforces-readme-stats.vercel.app/api/card?username=MahmoudElsaey2)](https://codeforces.com/profile/MahmoudElsaey2)
+
+- **Rating**: [Check my Codeforces profile](https://codeforces.com/profile/MahmoudElsaey2)
+- **Rank**: Check my [Codeforces profile](https://codeforces.com/profile/MahmoudElsaey2)
+- **Top Contest:** [Contest Name](https://codeforces.com/contest/1234) where I scored X place out of Y participants.
+- **Problems Solved:** X problems.
+
+![Codeforces](https://img.shields.io/badge/Codeforces-YourRating-brightgreen)
+
 ## 📈 GitHub Stats
 
 ![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudELsaey&show_icons=true&theme=radical)
