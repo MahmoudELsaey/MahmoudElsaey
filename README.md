@@ -1,7 +1,7 @@
 # Hi there, I'm Mahmoud Elsaey! 👋
 
 ## About Me
-I am an **Embedded Software Engineer** with a passion for developing innovative embedded systems and optimizing software performance. My last name, "Elsaey," means "The Seeker" in Arabic, and this account is a a proof! 😉
+I am an **Embedded Software Engineer** with a passion for developing innovative embedded systems and optimizing software performance. My last name means "The Seeker" in Arabic, and this account is a proof! 😉
 
 - 📫 How to reach me: [mahmoudelsaey2@gmail.com](mailto:mahmoudelsaey2@gmail.com)
 
