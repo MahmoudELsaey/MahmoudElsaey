@@ -38,3 +38,4 @@ I am an **Embedded Software Engineer** with a passion for developing innovative 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Elsaey-blue)](https://www.linkedin.com/in/mahmoudelsaey/)
 [![Twitter](https://img.shields.io/badge/Twitter-@MahmoudElsaey-blue)](https://twitter.com/Mahmoud_Elsaey2)
+[![Facebook](https://img.shields.io/badge/Facebook-Mahmoud%20Elsaey-3b5998)](https://www.facebook.com/mahmoud.elsaey.3)
