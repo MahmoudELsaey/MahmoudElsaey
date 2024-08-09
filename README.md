@@ -1,5 +1,5 @@
 # Hi there, I'm Mahmoud Elsaey! 👋
-## "Elsaey" in Arabic means "The Seeker", and this account is just a proof!
+## My last name means "The Seeker" in Arabic, and this account is just a proof!
 
 
 ## 🚀 About Me
@@ -25,7 +25,5 @@ I am an **Embedded Software Engineer** with a passion for developing innovative 
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Elsaey-blue)](https://www.linkedin.com/in/mahmoud-elsaey/)
-[![Twitter](https://x.com/Mahmoud_Elsaey2)
-[![Facebook](https://www.facebook.com/mahmoud.elsaey.3)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Elsaey-blue)](www.linkedin.com/in/mahmoudelsaey)
+[![Twitter](https://img.shields.io/badge/Twitter-@MahmoudElsaey-blue)](https://twitter.com/MahmoudElsaey2)
