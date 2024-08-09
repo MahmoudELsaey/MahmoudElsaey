@@ -26,4 +26,4 @@ I am an **Embedded Software Engineer** with a passion for developing innovative 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Elsaey-blue)](https://www.linkedin.com/in/mahmoudelsaey/)
-[![Twitter](https://img.shields.io/badge/Twitter-@MahmoudElsaey-blue)](https://twitter.com/MahmoudElsaey2)
+[![Twitter](https://img.shields.io/badge/Twitter-@MahmoudElsaey-blue)](https://twitter.com/Mahmoud_Elsaey2)
